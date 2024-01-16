@@ -8,5 +8,5 @@
 
 This repository contains a simple server using TCP protocol built using the Qt framework (https://www.qt.io/product/framework)
 
-## Compile it - Run it
+## Command to run:
 `qmake TestingTCPServer.pro`
